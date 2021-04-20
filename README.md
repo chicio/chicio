@@ -4,7 +4,7 @@ Hi there 👋, I'm Fabrizio Duroni, a software developer with many years of expe
 
 I have a blog 📝. You can check it out at [fabrizioduroni.it](https://www.fabrizioduroni.it "fabrizio duroni website")
 
-![Blog logo](https://www.fabrizioduroni.it/assets/images/chicio-coding-feature-graphic.jpg "fabrizio duroni logo")
+![Blog logo](https://github.com/chicio/chicio.github.io/blob/source/static/chicio-coding-feature-graphic.jpg?raw=true "fabrizio duroni logo")
 
 ## Get in Touch 📫
 
