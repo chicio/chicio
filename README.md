@@ -6,10 +6,6 @@ I have a blog 📝. You can check it out at [fabrizioduroni.it](https://www.fabr
 
 ![Blog logo](https://www.fabrizioduroni.it/chicio-coding-feature-graphic.jpg "fabrizio duroni logo")
 
-## Github stats
-
-![Fabrizio Duroni stats](https://github-readme-stats.vercel.app/api?username=chicio&show_icons=true&theme=dark)
-
 ## Get in Touch 📫
 
 - [My personal website](https://www.fabrizioduroni.it "fabrizio duroni website")
